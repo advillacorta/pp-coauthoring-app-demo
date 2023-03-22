@@ -5,7 +5,7 @@ Screen1 As screen:
         ZIndex: =1
 
     Button1 As button:
-        Text: ="Sigui"
+        Text: ="Siguiente"
         X: =1193
         Y: =690
         ZIndex: =2
