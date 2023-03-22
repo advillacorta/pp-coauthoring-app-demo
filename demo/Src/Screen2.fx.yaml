@@ -30,10 +30,6 @@
                 Default: ="Entrada de texto"
                 ZIndex: =2
 
-            Button3 As button:
-                Text: ="Botón Simultáneo"
-                ZIndex: =3
-
         FooterContainer1 As groupContainer.horizontalAutoLayoutContainer:
             FillPortions: =0
             Height: =75
