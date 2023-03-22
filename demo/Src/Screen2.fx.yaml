@@ -26,6 +26,10 @@
             Rectangle2 As rectangle:
                 ZIndex: =1
 
+            TextInput1 As text:
+                Default: ="Entrada de texto"
+                ZIndex: =2
+
         FooterContainer1 As groupContainer.horizontalAutoLayoutContainer:
             FillPortions: =0
             Height: =75
