@@ -16,3 +16,9 @@ Screen1 As screen:
         Y: =288
         ZIndex: =3
 
+    Button4 As button:
+        Text: ="Gijana"
+        X: =1153
+        Y: =314
+        ZIndex: =4
+
