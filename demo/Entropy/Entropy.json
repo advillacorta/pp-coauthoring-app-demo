@@ -1,9 +1,24 @@
 {
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Button1": 6,
+    "Button2": 14,
+    "Button3": 5,
+    "FooterContainer1": 13,
+    "HeaderContainer1": 9,
+    "MainSectionContainer1": 10,
+    "Rectangle1": 4,
+    "Rectangle2": 11,
+    "Screen1": 3,
+    "Screen2": 7,
+    "ScreenContainer1": 8,
+    "TextInput1": 12
+  },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "03/22/2023 21:53:16",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -15,11 +30,57 @@
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {},
-  "OverridablePropertiesEntry": {},
+  "OrderXMLTemplate": {
+    "button": 1,
+    "groupContainer": 2,
+    "rectangle": 0,
+    "text": 3
+  },
+  "OverridablePropertiesEntry": {
+    "App": {},
+    "Button1": {},
+    "Button2": {},
+    "Button3": {},
+    "FooterContainer1": {},
+    "HeaderContainer1": {},
+    "MainSectionContainer1": {},
+    "Rectangle1": {},
+    "Rectangle2": {},
+    "Screen1": {},
+    "Screen2": {},
+    "ScreenContainer1": {},
+    "TextInput1": {}
+  },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
-  "PublishOrderIndices": {},
+  "PublishOrderIndices": {
+    "App": 0,
+    "Button1": 5,
+    "Button2": 13,
+    "Button3": 4,
+    "FooterContainer1": 10,
+    "HeaderContainer1": 8,
+    "MainSectionContainer1": 9,
+    "Rectangle1": 3,
+    "Rectangle2": 11,
+    "Screen1": 2,
+    "Screen2": 6,
+    "ScreenContainer1": 7,
+    "TextInput1": 12
+  },
   "ResourcesJsonIndices": {},
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {}
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0216722,
+    "ControlCount": {
+      "button": 3,
+      "groupContainer": 4,
+      "rectangle": 2,
+      "screen": 2,
+      "text": 1
+    },
+    "DeserializationLoadTime": 0.0804555,
+    "ErrorCount": 0
+  },
+  "WasLocalDatabaseReferencesEmpty": true
 }
